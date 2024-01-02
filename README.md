@@ -1,3 +1,5 @@
-Basic iOS App
+# Basic iOS App
 
-![Home](home.png)
+<p float="left">
+    <img src="home.png" width="270" />
+</p>
